@@ -1,2 +1,1 @@
-# Customer-Data-Analysis
-This repository contains interactive Tableau workbooks and dashboards designed to analyze customer data for actionable business insights. The project leverages advanced visualization techniques to uncover trends, patterns, and performance metrics across multiple dimensions of customer behavior.
+Link - https://public.tableau.com/views/CustomerShoppingAnalysis1/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
